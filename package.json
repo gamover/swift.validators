@@ -1,0 +1,19 @@
+{
+    "author": "G@mOBEP <rusmiran@gmail.com>",
+    "name": "swift.validators",
+    "description": "validators",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gamover/swift.validators.git#master"
+    },
+    "dependencies": {
+        "swift.errors": "*",
+        "swift.utils": "*"
+    },
+    "devDependencies": {},
+    "optionalDependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
