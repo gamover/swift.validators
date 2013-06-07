@@ -8,6 +8,7 @@
 exports.BetweenValidator    = require('./lib/betweenValidator').BetweenValidator;
 exports.EmailValidator      = require('./lib/emailValidator').EmailValidator;
 exports.EqualValidator      = require('./lib/equalValidator').EqualValidator;
+exports.InArrayValidator    = require('./lib/inArrayValidator').InArrayValidator;
 exports.IsSetValidator      = require('./lib/isSetValidator').IsSetValidator;
 exports.MaxLengthValidator  = require('./lib/maxLengthValidator').MaxLengthValidator;
 exports.MaxValidator        = require('./lib/maxValidator').MaxValidator;
